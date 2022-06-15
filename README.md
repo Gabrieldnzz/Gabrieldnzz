@@ -14,5 +14,5 @@
  
  <br>
 
- 
+ ![snake gif](https://github.com/Gabrieldnzz/Gabrieldnzz/blob/output/github-contribution-grid-snake.svg)
  
