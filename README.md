@@ -15,4 +15,4 @@
  <br>
 
  
- ![Snake animation](https://github.com/Gabrieldnzz/Gabrieldnzz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
